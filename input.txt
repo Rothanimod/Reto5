@@ -1,0 +1,15 @@
+Como se escribe el numero 1 en palabras
+uno
+
+como se escribe el numero 2 en palabras
+dos
+
+como se escribe el numero 3 en palabras
+tres
+
+como se escribe el numero 4 en palabras
+cuatro
+
+como se escribe el numero 5 en palabras
+cinco
+
