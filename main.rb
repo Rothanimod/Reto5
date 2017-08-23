@@ -1,6 +1,8 @@
 #este archivo contiene el flujo de control de los datos para el programa
 #incluir interface
 #incluir Reto5
+require_relative "reto5"
+require_relative "interface"
 
 inter = Interface.new()
 game = Reto5.new()
